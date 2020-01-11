@@ -1,4 +1,4 @@
-package academy.devdojo.demo.model;
+package academy.devdojo.demo.core.model;
 
 import java.io.Serializable;
 

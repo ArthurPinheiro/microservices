@@ -1,6 +1,6 @@
-package academy.devdojo.demo.repository;
+package academy.devdojo.demo.core.repository;
 
-import academy.devdojo.demo.model.Course;
+import academy.devdojo.demo.core.model.Course;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 public interface CourseRepository extends PagingAndSortingRepository<Course, Long> {
